@@ -1,8 +1,4 @@
 ## Olá, mundo! Eu sou Letícia Castanheira
-<div align="center">
-  <a href="https://github.com/LeleCastanheira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeleCastanheira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   
 ## Tecnologias que eu uso no meu dia
 
